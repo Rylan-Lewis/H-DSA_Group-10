@@ -1,0 +1,6 @@
+﻿PyPDF2
+google-generativeai
+python-dotenv
+psycopg2-binary
+boto3
+python-docx
